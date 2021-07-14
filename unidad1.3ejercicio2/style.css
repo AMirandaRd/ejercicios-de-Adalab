@@ -1,0 +1,11 @@
+div {height: 100px;
+width: 100px;}
+
+.text {display:block;
+    background-color: rgb(127, 136, 255);
+}
+.text1 {display:block;
+background-color: blueviolet;}
+
+.text2 {display:block;
+background-color: chocolate;}
