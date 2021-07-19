@@ -1,0 +1,9 @@
+.item1 {position: fixed;
+background-color: purple;}
+
+.item2 {position: relative;
+    top:80px;
+    width: 100%;
+    height:100%;
+}
+
